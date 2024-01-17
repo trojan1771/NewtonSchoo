@@ -1,0 +1,4 @@
+To finish the assignment:
+
+1. User needs to have an understanding of urls which would be the first step to advance with this project.
+2. Cypress works with DOM elements, the user needs to find out which elements are altered and which are missing in order to finish the assignment
